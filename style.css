@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    background-color: #ffff55;
+}
+
+#top {
+  background-color: #ff51d0;
+  color: #ffffff;
+  padding: 10px;
+  margin-bottom: 15px;
+
+  font-family: 'Zen Maru Gothic', 'Monomaniac One', sans-serif;
+  font-weight: 900;
+  font-size: 28px;
+  letter-spacing: 2px;
+
+  text-shadow: 
+    0px 3px 0px #b8007e, 
+    0px 0px 8px rgba(255, 255, 255, 0.9);
+}
+
+
+#about img {
+   width: 280px;
+   height: 200px;
+}
+
+#favorite ul{
+   width: fit-content;
+   margin: a
+}
+
+#favorite .container {
+   display: flex;
+   justify-content: center;
+}
+
+#favorite .box {
+    margin: 20px;
+}
+
+#favorite .box img {
+   display: block;
+   width: 280px;
+   height: 200px;
+   margin-bottom: 10px;
+}
